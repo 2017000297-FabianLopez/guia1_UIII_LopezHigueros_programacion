@@ -1,5 +1,8 @@
 Algoritmo Lecc16_Act2_Inc2
-	
+	Escribir "Nombre: Fabian Andre Lopez Higueros"
+	Escribir "Grado y Seccion: IV C"
+	Escribir "Clave: 19"
+
 	Dimension numerosEnteros[8]
 	
 	Definir indice, numeroMayor, posicionMayor Como Entero

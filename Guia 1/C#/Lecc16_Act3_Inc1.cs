@@ -4,7 +4,11 @@ class Program
 {
     static void Main()
     {
-       
+
+        Console.WriteLine("Nombre: Fabián André Lopez Higueros");
+        Console.WriteLine("Grado y Seccion: IV C");
+        Console.WriteLine("Clave: 19");
+        
         int[] numerosEnteros = new int[15];
 
         bool existeRepetido = false;

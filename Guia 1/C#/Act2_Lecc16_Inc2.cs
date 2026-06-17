@@ -4,6 +4,9 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        Console.WriteLine("Nombre: Fabián André Lopez Higueros");
+        Console.WriteLine("Grado y Seccion: IV C");
+         Console.WriteLine("Clave: 19");
         
         int[] numeros = new int[8];
 

@@ -1,10 +1,8 @@
 Algoritmo Lecc16_Acti2_Inc1
     
-    Escribir "DATOS ACADÉMICOS"
-    Escribir "Nombre: Daniel Zea"
-    Escribir "Grado: IVC"
-    Escribir "Clave: 20"
-    Escribir "" 
+	Escribir "Nombre: Fabian Andre Lopez Higueros"
+	Escribir "Grado y Seccion: IV C"
+	Escribir "Clave: 19"
     
     
     Definir edadPersonas, cantidadPersonasMayores, cantidadPersonasMenores, i Como Entero

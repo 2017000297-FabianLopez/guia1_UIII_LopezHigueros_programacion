@@ -2,6 +2,11 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        
+        Console.WriteLine("Nombre: Fabián André Lopez Higueros");
+        Console.WriteLine("Grado y Seccion: IV C");
+        Console.WriteLine("Clave: 19");
+        
         int num = 0;
         String[] meses = new string[6];
         meses[0]= "";

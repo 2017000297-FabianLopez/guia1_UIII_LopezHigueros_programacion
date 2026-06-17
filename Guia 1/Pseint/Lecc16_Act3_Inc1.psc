@@ -1,5 +1,8 @@
 Algoritmo Lecc16_Act3_Inc1
 	
+	Escribir "Nombre: Fabian Andre Lopez Higueros"
+	Escribir "Grado y Seccion: IV C"
+	Escribir "Clave: 19"
 	Dimension numerosEnteros[15]
 	
 	Definir indice, comparador Como Entero

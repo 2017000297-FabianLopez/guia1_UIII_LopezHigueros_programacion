@@ -1,4 +1,8 @@
 Algoritmo Lecc30_Act1_Inc2
+	Escribir "Nombre: Fabian Andre Lopez Higueros"
+	Escribir "Grado y Seccion: IV C"
+	Escribir "Clave: 19"
+
 	Definir num Como Entero
     Definir dinero Como Caracter
     Dimension dinero[5]
@@ -9,7 +13,7 @@ Algoritmo Lecc30_Act1_Inc2
 	dinero[4] <- "Q1,000"
 	dinero[5] <- "Q35,000"
     
-    Escribir "Ingrese un número del 1 al 5: "
+    Escribir "Ingrese un nÃºmero del 1 al 5: "
     Leer num
     
     Escribir dinero[num]

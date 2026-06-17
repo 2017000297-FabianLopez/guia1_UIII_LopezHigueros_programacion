@@ -4,9 +4,10 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("DATOS ACADÉMICOS\nNombre: Daniel Zea" +
-            "\nGrado:IVC" +
-            "\nClave:20\n");
+
+        Console.WriteLine("Nombre: Fabián André Lopez Higueros");
+        Console.WriteLine("Grado y Seccion: IV C");
+        Console.WriteLine("Clave: 19");
 
     
         int[] edadPersonas = new int[7];

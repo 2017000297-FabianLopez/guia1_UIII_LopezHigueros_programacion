@@ -12,9 +12,9 @@ internal class Program
         color[0]= "";
         color[1]= "Verde";
         color[2]= "Azul";
-        color[3]= "lila";
-        color[4]= "negro";
-        color[5] = "blanco";
+        color[3]= "Lila";
+        color[4]= "Negro";
+        color[5] = "Blanco";
 
         Console.WriteLine("Ingrese un número del 1 al 5: ");
         num = int.Parse(Console.ReadLine());

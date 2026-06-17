@@ -1,4 +1,8 @@
 Algoritmo Act1_Lecc16
+	Escribir "Nombre: Fabian Andre Lopez Higueros"
+	Escribir "Grado y Seccion: IV C"
+	Escribir "Clave: 19"
+
 	Definir color, num Como Caracter 
 	Dimensionar color[8]
 	color[1]= "negro"
